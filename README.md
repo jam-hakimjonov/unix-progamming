@@ -1,6 +1,6 @@
-# GO AWAY, NO MEANING HERE
+## GO AWAY, NO MEANING HERE
 
-## Lecturer: Andrey Dragunov
-### Place of study: Inha University in Tashkent
+### Lecturer: Andrey Dragunov
+#### Place of study: Inha University in Tashkent
 
 

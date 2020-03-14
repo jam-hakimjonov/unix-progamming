@@ -1,4 +1,6 @@
-# Lecturer: Andrey Dragunov
-# Place of study: Inha University in Tashkent
+# GO AWAY, NO MEANING HERE
 
-# NO MEANING HERE
+## Lecturer: Andrey Dragunov
+### Place of study: Inha University in Tashkent
+
+

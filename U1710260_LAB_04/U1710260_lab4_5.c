@@ -17,7 +17,7 @@ int main(int n, char *args[]) {
     struct tm *time_info;
     time(&raw_time);
     time_info = localtime(&raw_time);
-    directory = opendir("./"); // for current root directory 
+    directory = opendir("./"); // for current directory 
     
     if(directory){
         printf("CURRENT LOCAL TIME AND DATE in UNIX EPOCH (SECONDS SINCE 1970.01.01 00:00): %ld", time(time_info));

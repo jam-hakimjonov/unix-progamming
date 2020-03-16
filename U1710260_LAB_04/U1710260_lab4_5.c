@@ -5,7 +5,7 @@
 #include <dirent.h>
 #include <time.h>
 
-/*LAB #4 - 2*/
+/*LAB #4 - 5*/
 
 // Jamshidjon Khakimjonov // UnixProg // U1710260 //
 

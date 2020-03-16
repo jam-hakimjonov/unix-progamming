@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <dirent.h>
 
-/*LAB #4 - 2*/
+/*LAB #4 - 3*/
 
 // Jamshidjon Khakimjonov // UnixProg // U1710260 //
 
